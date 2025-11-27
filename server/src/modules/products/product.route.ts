@@ -1,0 +1,14 @@
+// import express from 'express';
+// import * as ProductController from './product.controller';
+// import { upload } from '@/middleware/upload';
+
+// const router = express.Router();
+
+// router.post('/add-product', upload.single('productImg'), ProductController.addProductController);
+// router.get('/get-products', ProductController.getProductsController);
+// router.get('/get-product/:productId', ProductController.getProductByIdController);
+// router.put('/edit-product/:productId', upload.single('productImg'), ProductController.updateProductController);
+
+// router.delete('/delete-product/:productId', ProductController.deleteProductController);
+
+// export default router ;
